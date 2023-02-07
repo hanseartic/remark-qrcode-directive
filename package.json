@@ -1,6 +1,6 @@
 {
   "name": "@hanseartic/remark-qrcode-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QR-code directive plugin for remark",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "author": "hanseartic",
   "license": "MIT",
-  "funding": "https://fund.hanseartic.de/#remark-qrcode-directive",
+  "funding": "https://fund.hanseartic.de/?remark-qrcode-directive=15",
   "keywords": [
     "markdown",
     "plugin",
@@ -23,16 +23,13 @@
   "type": "module",
   "private": false,
   "dependencies": {
-    "qrcode": "^1.5.1",
-    "unist-util-visit": "^4.1.2"
-  },
-  "peerDependencies": {
     "mdast-util-directive": "^2.2.3",
+    "qrcode": "^1.5.1",
     "remark": "^14.0.2",
     "remark-directive": "^2.0.1",
-    "unified": "^10.1.2"
+    "unified": "^10.1.2",
+    "unist-util-visit": "^4.1.2"
   },
-  "devDependencies": {},
   "files": [
     "README.md",
     "LICENSE",
