@@ -207,9 +207,9 @@ longest-streak@^3.0.0:
   integrity sha512-9Ri+o0JYgehTaVBBDoMqIl8GXtbWg711O3srftcHhZ0dqnETqLaoIK0x17fUw9rFSlK/0NlsKe0Ahhyl5pXE2g==
 
 mdast-util-directive@^2.0.0, mdast-util-directive@^2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/mdast-util-directive/-/mdast-util-directive-2.2.3.tgz#d307c006d4c90781ac4950300bbae448ee890fa9"
-  integrity sha512-BhBvlKk2m2d+C/C6qiPtM5J6gXVGAYlTarSqnud4GPtaZPumZLuMSoJXMRYkM8WnzJ9cDaV5X7KQBUdiLxJdvA==
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/mdast-util-directive/-/mdast-util-directive-2.2.4.tgz#e397ed699ec83938cb4a48dc1cec3ae69cbd7aa3"
+  integrity sha512-sK3ojFP+jpj1n7Zo5ZKvoxP1MvLyzVG63+gm40Z/qI00avzdPCYxt7RBMgofwAva9gBjbDBWVRB/i+UD+fUCzQ==
   dependencies:
     "@types/mdast" "^3.0.0"
     "@types/unist" "^2.0.0"
