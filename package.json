@@ -23,7 +23,7 @@
   "type": "module",
   "private": false,
   "dependencies": {
-    "mdast-util-directive": "^2.2.3",
+    "mdast-util-directive": "^3.0.0",
     "qrcode": "^1.5.1",
     "remark": "^14.0.2",
     "remark-directive": "^2.0.1",
